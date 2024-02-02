@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Click-Script
+Icon=utilities-terminal
+Exec=gnome-terminal -e "bash -c '~/Desktop/stop_script.sh;$SHELL'"
+Categories=Application;
+Name[en_US]=Stop-Script
