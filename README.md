@@ -1,2 +1,1 @@
-# test
-test executables
+Shell scripts for running command loops
