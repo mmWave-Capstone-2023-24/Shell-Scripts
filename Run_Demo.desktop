@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Run_Demo
+Icon=utilities-terminal
+Exec=gnome-terminal -e "bash -c '~/Desktop/demo_script.sh;$SHELL'"
+Categories=Application;
+Name[en_US]=Run_Demo.desktop
